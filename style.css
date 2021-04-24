@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    height: 200px;
+    width: 100%;
+}
+#display{
+    text-align: center;
+    font-size: 70px;
+    margin: 0px, auto;
+    width: 100%;
+}
+.btn{
+    text-align: center;
+    
+}
+#start{
+    font-size: 30px;
+    border-radius: 9px;
+}
+#reset{
+    font-size: 30px;
+    border-radius: 9px;
+    
+}
